@@ -1,6 +1,4 @@
 # Gallery
-Certainly! Here's a concise project description that you can use for your GitHub repository:
-
 ---
 
 **Filterable Responsive Image Gallery with Upload**
